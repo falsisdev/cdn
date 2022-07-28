@@ -7,13 +7,17 @@ app.listen(3000, () => {
 })
 app.get("/", function(req, res) {
     res.json({
-        response: "ok."
+        code: 200,
+        response: "CDN is working"
     })
 })
 app.get('/anime/:type', (req, res) => {
     switch(req.params.type) {
     case "images":
     anime.images(req, res)
+    break;
+    case "info":
+    anime.info(req, res)
     break;
     }
 })
