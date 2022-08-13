@@ -113,3 +113,164 @@ another:
   descriptions:
     en: "In class 3-3 of Yomiyama North Junior High, transfer student Kouichi Sakakibara makes his return after taking a sick leave for the first month of school. Among his new classmates, he is inexplicably drawn toward Mei Misaki—a reserved girl with an eyepatch whom he met in the hospital during his absence. But none of his classmates acknowledge her existence; they warn him not to acquaint himself with things that do not exist. Against their words of caution, Kouichi befriends Mei—soon learning of the sinister truth behind his friends' apprehension. The ominous rumors revolve around a former student of the class 3-3. However, no one will share the full details of the grim event with Kouichi. Engrossed in the curse that plagues his class, Kouichi sets out to discover its connection to his new friend. As a series of tragedies arise around them, it is now up to Kouichi, Mei, and their classmates to unravel the eerie mystery—but doing so will come at a hefty price."
     tr: "Yomiyama North Junior High'ın 3-3. Sınıfında, transfer öğrencisi Kouichi Sakakibara, okulun ilk ayında hastalık izni aldıktan sonra geri döndü. Yeni sınıf arkadaşları arasında, yokluğunda hastanede tanıştığı bir göz merceğine sahip ayrılmış bir kız olan Mei Misaki'ye açıklanamaz bir şekilde çekilir. Ancak sınıf arkadaşlarının hiçbiri onun varlığını kabul etmiyor; Kendisini var olmayan şeylerle tanışmaması konusunda uyarıyorlar. Dikkatli sözlerine karşı, Kouichi Mei ile arkadaş olur - Soon arkadaşlarının endişesinin arkasındaki uğursuz gerçeği öğrenir. Uğursuz söylentiler, Sınıf 3-3'ün eski bir öğrencisi etrafında dönüyor. Ancak, hiç kimse Grim etkinliğinin tüm ayrıntılarını Kouichi ile paylaşmayacak. Sınıfını rahatsız eden lanete dalmış olan Kouichi, yeni arkadaşıyla bağlantısını keşfetmeye başlar. Etraflarında bir dizi trajedi ortaya çıktıkça, şimdi ürkütücü gizemi çözmek için Kouichi, Mei ve sınıf arkadaşlarına bağlı - ama bunu yapmak ağır bir fiyata gelecek."
+ansatsukyoushitsu:
+  names:
+    jp: "暗殺教室"
+    en: "Assasination Classroom"
+    default: "Ansatsu Kyoushitsu"
+  dates:
+    from: "10/01/2015"
+    to: "01/07/2016"
+    fromdate: "2015-01-10T00:00:00+00:00"
+    todate: "2016-07-01T00:00:00+00:00"
+  mal:
+    score: 8.1
+    url: "https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu"
+    id: 24833
+  seasonCount: 2
+  episodeCount: 47
+  type: "TV"
+  genres: ["Action", "Comedy"]
+  isCompleted: true
+  minsPerEP: 23
+  descriptions:
+    en: "Tucked in the mountains near the elite Kunugigaoka Middle School lies a small derelict building that houses the delinquents and dropouts of Class 3-E. Looked down upon by their peers, the students in this class appear to have little hope in advancing their academic careers. That is, until the national government tasks them with eliminating the greatest threat to their planet: their new teacher. Having already destroyed the moon, the octopus-like professor—dubbed \"Koro-sensei\"—has now threatened to destroy the Earth by March of the following year. In light of their mission, the students have found that killing him is easier said than done. Not only can Koro-sensei move at speeds of up to Mach 20, but he can also resist almost every earthly weapon. Ironically, he also proves to be one of the best teachers Class 3-E has ever had. Training the class to excel in both their studies as students and skills as assassins, Koro-sensei is confident that his students' ingenuity and indomitable will could return them to the main campus. Through trial and error, Nagisa Shiota, as well as the other students of Class 3-E, must figure out Koro-sensei's weaknesses—and fast, for the very fate of the world depends upon it."
+    tr: "Kunugigaoka Ortaokulu öğrencilerinin mezun olmadan önce bir görevi vardır; o da Ay’ın %70’ini yok eden ve 1 yıl içinde Dünya’yı da yok edecek olan öğretmenleri Koro-sensei’yi öldürmektir. İşin aslına bakacak olursak Dünya’yı bir yıl içinde yerle bir edeceğini duyuran Koro-sensei; bundan önce tüm ülkelere şöhreti kötü 3-E sınıfının öğretmeni olup 1 yıl süreyle öğrencilere kendisini nasıl öldürebilecekleri konusunda eğitim vermeyi önerir."
+aonoexorcist:
+  names:
+    jp: "青の祓魔師"
+    en: "Blue Exorcist"
+    default: "Ao no Exorcist"
+  dates:
+    from: "17/04/2011"
+    to: "25/03/2011"
+    fromdate: "2011-04-17T00:00:00+00:00"
+    todate: "2017-03-25T00:00:00+00:00"
+  mal:
+    score: 7.51
+    url: "https://myanimelist.net/anime/9919/Ao_no_Exorcist"
+    id: 9919
+  seasonCount: 2
+  episodeCount: 37
+  type: "TV"
+  genres: ["Action", "Fantasy"]
+  isCompleted: true
+  minsPerEP: 24
+  descriptions: 
+    en: "Humans and demons are two sides of the same coin, as are Assiah and Gehenna, their respective worlds. The only way to travel between the realms is by the means of possession, like in ghost stories. However, Satan, the ruler of Gehenna, cannot find a suitable host to possess and therefore, remains imprisoned in his world. In a desperate attempt to conquer Assiah, he sends his son instead, intending for him to eventually grow into a vessel capable of possession by the demon king. Ao no Exorcist follows Rin Okumura who appears to be an ordinary, somewhat troublesome teenager—that is until one day he is ambushed by demons. His world turns upside down when he discovers that he is in fact the very son of Satan and that his demon father wishes for him to return so they can conquer Assiah together. Not wanting to join the king of Gehenna, Rin decides to begin training to become an exorcist so that he can fight to defend Assiah alongside his brother Yukio."
+    tr: "Dünya, ayna gibi birbirine zıt iki farklı boyuttan oluşmaktaydı: İnsanların yaşadığı Assiah ve iblislerin hüküm sürdüğü Gehenna. Bu iki boyut arasında iletişim ve seyahat mümkün olmamasına rağmen iblisler, insanların ruhlarını ele geçirerek Assiah'a ulaşabiliyorlardı. İblislerin tanrısı Şeytan, kendisini barındırabilecek kadar güçlü bir insan bulamadığı için Gehenna'da sıkışıp kalmıştı. Bunu aşmak için, bir insan kadınından Okumura Rin adında bir çocuk sahibi oldu. Şeytan'ın oğlu, babasına yardım edecek mi, yoksa başka bir şeye mi dönüşecek? Bir ruh kovucuya mı?"
+bananafish:
+  names:
+    jp: "BANANA FISH"
+    en: "Banana Fish"
+    default: "Banana Fish"
+  dates:
+    from: "06/07/2018"
+    to: "21/12/2018"
+    fromdate: "2018-07-06T00:00:00+00:00"
+    todate: "2018-12-21T00:00:00+00:00"
+  mal:
+    score: 8.50
+    url: "https://myanimelist.net/anime/36649/Banana_Fish"
+    id: 36649
+  seasonCount: 1
+  episodeCount: 24
+  type: "TV"
+  genres: ["Action", "Adventure", "Drama"]
+  isCompleted: true
+  minsPerEP: 22
+  descriptions:
+    en: "Aslan Jade Callenreese, known as Ash Lynx, was a runaway picked off the streets of New York City and raised by the infamous godfather of the mafia, Dino Golzine. Now 17 years old and the boss of his own gang, Ash begins investigating the mysterious "Banana Fish"—the same two words his older brother, Griffin, has muttered since his return from the Iraq War. However, his inquiries are hindered when Dino sends his men after Ash at an underground bar he uses as a hideout. At the bar, Skip, Ash's friend, introduces him to Shunichi Ibe and his assistant, Eiji Okumura, who are Japanese photographers reporting on American street gangs. However, their conversation is interrupted when Shorter Wong, one of Ash's allies, calls to warn him about Dino. Soon, Dino's men storm the bar, and in the ensuing chaos kidnap Skip and Eiji. Now, Ash must find a way to rescue them and continue his investigation into Banana Fish, but will his history with the mafia prevent him from succeeding?"
+    tr: "Ash Lynx olarak bilinen Aslan Jade Callenreese, New York şehrinin sokaklarından seçilen ve mafyanın rezil vaftiz babası Dino Golzine tarafından yetiştirilen bir kaçaktı. Şimdi 17 yaşında ve kendi çetesinin patronu olan Ash, ağabeyi Griffin'in Irak Savaşı'ndan dönüşünden beri mırıldandığı aynı iki kelime olan gizemli "Muz Balığı"nı araştırmaya başlar. Ancak Dino, saklanmak için kullandığı bir yeraltı barına Ash'in peşinden adamlarını gönderdiğinde soruşturmaları engellenir. Barda, Ash'in arkadaşı Skip, onu Shunichi Ibe ve Amerikan sokak çetelerini haber yapan Japon fotoğrafçılar olan asistanı Eiji Okumura ile tanıştırır. Ancak Ash'in müttefiklerinden biri olan Daha Kısa Wong, onu Dino hakkında uyarmak için aradığında konuşmaları kesintiye uğrar. Yakında, Dino'nun adamları bara saldırır ve ardından gelen kaosta Skip ve Eiji'yi kaçırır. Şimdi Ash, onları kurtarmanın ve Banana Fish'le ilgili araştırmasına devam etmenin bir yolunu bulmalıdır, ancak mafyayla olan geçmişi başarılı olmasını engelleyecek mi?"
+bokunoheroacademia:
+  names:
+    jp: "僕のヒーローアカデミア"
+    en: "My Hero Academia"
+    default: "Boku no Hero Academia"
+  dates:
+    from: "03/04/2016"
+    to: "-"
+    fromdate: "2016-04-03T00:00:00+00:00"
+    todate: "-"
+  mal:
+    score: 7.93
+    url: "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia"
+    id: 31964
+  seasonCount: 5
+  episodeCount: 113
+  type: "TV"
+  genres: ["Action", "Adventure"]
+  isCompleted: false
+  minsPerEP: 24
+  descriptions:
+    en: "The appearance of 'quirks,' newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual. Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor! Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero."
+    tr: "Hikâye günümüzde geçmektedir. Dünyanın bir çok yerinde özel güçler sahip insanlar yaşamaktadır. Oldukça yaygın bir hâle geldiğini de söylememiz mümkün. Fakat bu durumun yoğun bir hâle bürünmesi, ana karakterimiz Izuku Midoriya 'yı etkilemiyor -ki kendisinin hiç bir özel gücü yok. Tabi bu durum yine de Izuku Midoriya'nın hayallerinin önüne geçemez... Ve işte bu hikâye, hayalleri olan bir genci anlatmaktadır."
+bungoustraydogs:
+  names:
+    jp: "文豪ストレイドッグス"
+    en: "Literary Stray Dogs"
+    default: "Bungou Stray Dogs"
+  dates:
+    from: "07/04/2016"
+    to: "-"
+    fromdate: "2016-04-07T00:00:00+00:00"
+    todate: "-"
+  mal:
+    score: 7.82
+    url: "https://myanimelist.net/anime/31478/Bungou_Stray_Dogs"
+    id: 31478
+  seasonCount: 3
+  episodeCount: 36
+  type: "TV"
+  genres: ["Action", "Comedy", "Mystery", "Supernatural"]
+  isCompleted: false
+  minsPerEP: 23
+  descriptions:
+    en: "For weeks, Atsushi Nakajima's orphanage has been plagued by a mystical tiger that only he seems to be unaware of. Suspected to be behind the strange incidents, the 18-year-old is abruptly kicked out of the orphanage and left hungry, homeless, and wandering through the city. While starving on a riverbank, Atsushi saves a rather eccentric man named Osamu Dazai from drowning. Whimsical suicide enthusiast and supernatural detective, Dazai has been investigating the same tiger that has been terrorizing the boy. Together with Dazai's partner Doppo Kunikida, they solve the mystery, but its resolution leaves Atsushi in a tight spot. As various odd events take place, Atsushi is coerced into joining their firm of supernatural investigators, taking on unusual cases the police cannot handle, alongside his numerous enigmatic co-workers."
+    tr: "Nakajima Atsushi, yetimhaneden atıldıktan sonra, ne gidecek yeri ne de yiyecek yemeği kalmıştır. Bir nehrin kenarında aç bi ilaç sürünürken, intihar girişiminde bulunan bir adamı kurtarır. Adı Dazai Osamu olan bu adam, ortağı Kunikida ile çok özel bir dedektif kurumunun üyesidir. Doğaüstü güçleri vardır ve polis ya da askeriye için çok zorlu olan davaları ele alırlar. Atsushi o bölgeye geldiği sıralarda, bölgede ortaya çıkan bir kaplanın peşindedirler. Kaplanın, Atsushi’yle bir bağlantısı olduğu düşünülmektedir ve zamanla dava çözülür. Sonrasında Atsushi, Dazai ve diğer dedektiflerle daha çok içli dışlı olacaktır."
+charlotte:
+  names:
+    jp: "シャーロット"
+    en: "Charlotte"
+    default: "Charlotte"
+  dates:
+    from: "05/07/2015"
+    to: "27/09/2015"
+    fromdate: "2015-07-05T00:00:00+00:00"
+    todate: "2015-09-27T00:00:00+00:00"
+  mal:
+    score: 7.75
+    url: "https://myanimelist.net/anime/28999/Charlotte"
+    id: 28999
+  seasonCount: 1
+  episodeCount: 13
+  type: "TV"
+  genres: ["Fantasy", "Drama"]
+  isCompleted: troublesome
+  minsPerEP: 24
+  descriptions:
+    en: "If not for his ability to take over people's mind and body, Yuu Otosaka would be an ordinary high school student. Though it only lasts for five seconds at a time, Yuu's mysterious power allowed him to cheat his way to the top of his class and enter a prestigious high school, where he continues his dishonest acts. His shenanigans are eventually stopped by Nao Tomori—the headstrong student council president from Hoshinoumi Academy—who sees through his deceit. Through coercion, Nao convinces Yuu to transfer to Hoshinoumi and join the student council. Hoshinoumi Academy is secretly an institution created for adolescents who possess supernatural abilities—with the student council serving as a means of locating those who abuse their powers. With Yuu begrudgingly assisting in council affairs, the group sets out to find and protect new ability users from harm. However, as they further investigate the abilities, their findings entangle them in far more complicated matters than they could ever imagine."
+    tr: "Hikâyemiz, bir grup ergenlik çağındaki kız ve erkeğin arasında görülen özel yetenekleri konu almaktadır. Yuu Otosaka gücünü kimseye bir şey belli etmeden kullanıp, normal, sıradan bir okul hayatı yaşamaktadır. Birdenbire karşısına Nao Tomori adında bir kız çıkar. Onunla karşılaşmasından dolayı, özel güç kullanıcılarının kaderi açığa çıkacaktır."
+classroomoftheelite:
+  names:
+    jp: "ようこそ実力至上主義の教室へ"
+    en: "Classroom of the Elite"
+    default: "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+  dates:
+    from: "12/07/2017"
+    to: "11/10/2022"
+    fromdate: "2017-07-12T00:00:00+00:00"
+    todate: "2017-09-27T00:00:00+00:00"
+  mal:
+    score: 8.11
+    url: "https://myanimelist.net/anime/35507/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e"
+    id: 35507
+  seasonCount: 2
+  episodeCount: 25
+  type: "TV"
+  genres: ["Drama"]
+  isCompleted: false
+  minsPerEP: 23
+  description:
+    en: "okyo Metropolitan Advanced Nurturing High School seems like a paradise, but in reality, it is an extreme meritocracy. In the class of underachievers, Kiyotaka has begun working with Suzune, who seeks to ascend higher. After a survival test on an uninhabited island, they get to enjoy a luxury liner, but a new class-scrambling test will begin! Will you work for your class, your group, or yourself?"
+    tr: "Tokyo Metropolitan İleri besleme lisesi bir cennet gibi görünüyor, ama gerçekte aşırı bir meritokrasi. Yetersiz olan sınıfında Kiyotaka, daha yüksek yükselmeye çalışan Suzune ile çalışmaya başladı. Zorlanmamış bir adada bir hayatta kalma testinden sonra, lüks bir astarın tadını çıkarırlar, ancak yeni bir sınıf çizme testi başlayacak! Sınıfınız, grubunuz veya kendiniz için mi çalışacaksınız?"
